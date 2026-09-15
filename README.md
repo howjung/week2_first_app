@@ -1,14 +1,15 @@
 # week2_first_app
 
-개발환경 진단 결과
+1.개발환경 진단 결과
 <img width="1340" height="973" alt="image" src="https://github.com/user-attachments/assets/3de085fd-6511-49e1-bfbe-1263a7e2072c" />
 
 
-크롬 실행 결과
+2.크롬 실행 결과
 <img width="1312" height="1008" alt="스크린샷 2026-09-15 11 59 50" src="https://github.com/user-attachments/assets/d5040b71-a5b2-4b9b-9beb-002685c67d32" />
 
-GitHub 정보
+3.GitHub 정보
 https://github.com/howjung/week2_first_app
+
 Commit ID (e1b9891)
 
 [학습기록]
