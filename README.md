@@ -21,10 +21,10 @@
 * **프로젝트 이름:** `week2_first_app`
 * **실행 명령:** `flutter run -d chrome`
 * **Device 이름/ID:** Chrome (`chrome`)
-* **실행 시각:** 2026-09-20 06:54:55
+* **실행 시각:** 2026-09-08 12:55:55
 * **변경 문구:** 본인 맞춤 안내 및 첫 Flutter 앱 실행 확인 문구 변경
 
-<img width="1312" height="1008" alt="스크린샷 2026-09-20 06 54 55" src="https://github.com/user-attachments/assets/d5040b71-a5b2-4b9b-9beb-002685c67d32" />
+<img width="1312" height="1008" alt="스크린샷 2026-09-08 12 55 55" src="https://github.com/user-attachments/assets/d5040b71-a5b2-4b9b-9beb-002685c67d32" />
 
 ---
 
